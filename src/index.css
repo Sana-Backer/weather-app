@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Playfair Display", system-ui;
+
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+  background: rgb(225, 225, 232);
+}
